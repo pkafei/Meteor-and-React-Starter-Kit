@@ -1,0 +1,3 @@
+## Meteor and React Starter Kit
+
+Meteor seems like the only node framework with a decent user account package....
